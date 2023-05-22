@@ -15,7 +15,7 @@ Image: The image sequence of a participant is stored in the “image” folder. 
 
 Depth map: The depth data is stored in the “dep.mat” file.
 
-EMG: The EMG data is recorded in the “emteqAR.mat” file. The variable “AR_clock_time” is the starting of this EMG recording. The variable “time” is the timestamp starting at 0. Users could have the real timestamp by adding the two variables. We also provide the function “emg_AR.m” for EMG preprocessing. The clean 20-channel EMG data can be obtained by using this function. 
+OMG: The OMG data is recorded in the “emteqAR.mat” file. The variable “AR_clock_time” is the starting of this EMG recording. The variable “time” is the timestamp starting at 0. Users could have the real timestamp by adding the two variables. We also provide the function “omg_AR.m” for OMG preprocessing. The cleaned 20-channel OMG data can be obtained by using this function. 
 
 EEG: The EEG data is stored in “bp.csv”. We provide the function “eeg_pro.m” for extracting EEG data and timestamp.
 
@@ -35,3 +35,7 @@ Arousal: The value of arousal is ranking from 1 to 9 representing intensity leve
 Emotion: The emotion is one of the 7-class categorical affective states (1:neutral; 2:happy; 3:sad; 4:angry; 5:fear; 6:disgust and 7:surprise).
 
 --------------------------------------------------------------
+
+Access to MGEED database:
+
+Please download the End User License Agreement (eula.pdf), complete the agreement and return it to Prof. Hui Yu, hui.yu@port.ac.uk. Once the signed agreement is received and approved, you will receive instructions to download the database.
