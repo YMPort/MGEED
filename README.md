@@ -25,10 +25,10 @@ Annotation:
 
 There are three annotations of each frame. The annotations are stored in the variable “facedata” from the “ind.mat” file.
 
-Valence: The value of valence is ranking from 1 to 10 representing emotional level from negative to positive.
+Valence: The value of valence is ranking from 1 to 9 representing emotional level from negative to positive.
 
-Arousal: The value of arousal is ranking from 1 to 10 representing intensity level from calm to exciting.
+Arousal: The value of arousal is ranking from 1 to 9 representing intensity level from calm to exciting.
 
-Emotion: The emotion one of the 7-class categorical affective states (happy, sad, angry, fear, disgust, surprise, neutral).
+Emotion: The emotion one of the 7-class categorical affective states (1:neutral, 2:happy, 3:sad, 4:angry, 5:fear, 6:disgust, 7:surprise,).
 
 --------------------------------------------------------------
