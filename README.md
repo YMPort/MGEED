@@ -2,6 +2,7 @@ Introduction
 
 Multimodal Genuine Emotion and Expression Detection (MGEED) is a facial emotional database, which consists of facial image sequences, depth maps, electroencephalography (EEG), optomyography (OMG) and electrocardiography (ECG) signals. Each facial image is annotated by the 9-level valence, arousal and the 6 basic emotions.
 
+
 ![Picture1](https://github.com/YMPort/MGEED/assets/82915545/d2889d2d-a48c-42a6-b8ea-1c0bc0735636)
 
 -----------------------------------------------------------------
