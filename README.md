@@ -1,6 +1,8 @@
 Introduction
 
-Multimodal Multi-Dimensional (MMD) facial emotional dataset consists of both male and female participants, with their facial image sequences, electroencephalogram (EEG), electromyography (EMG) and electrocardiography (ECG) signals. Each facial image is annotated by valence, arousal and basic emotion. 
+Multimodal Genuine Emotion and Expression Detection (MGEED) is a facial emotional database, which consists of facial image sequences, depth maps, electroencephalography (EEG), optomyography (OMG) and electrocardiography (ECG) signals. Each facial image is annotated by the 9-level valence, arousal and the 6 basic emotions.
+
+![Picture1](https://github.com/YMPort/MGEED/assets/82915545/d2889d2d-a48c-42a6-b8ea-1c0bc0735636)
 
 -----------------------------------------------------------------
 
@@ -29,6 +31,6 @@ Valence: The value of valence is ranking from 1 to 9 representing emotional leve
 
 Arousal: The value of arousal is ranking from 1 to 9 representing intensity level from calm to exciting.
 
-Emotion: The emotion one of the 7-class categorical affective states (1:neutral, 2:happy, 3:sad, 4:angry, 5:fear, 6:disgust, 7:surprise,).
+Emotion: The emotion is one of the 7-class categorical affective states (1:neutral; 2:happy; 3:sad; 4:angry; 5:fear; 6:disgust and 7:surprise).
 
 --------------------------------------------------------------
