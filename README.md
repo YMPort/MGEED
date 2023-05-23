@@ -15,11 +15,11 @@ Image: The image sequence of a participant is stored in the “image” folder. 
 
 Depth map: The depth data is stored in the “dep.mat” file.
 
-OMG: The OMG data is recorded in the “emteqAR.mat” file. The variable “AR_clock_time” is the starting of this EMG recording. The variable “time” is the timestamp starting at 0. Users could have the real timestamp by adding the two variables. We also provide the function “omg_AR.m” for OMG preprocessing. The cleaned 20-channel OMG data can be obtained by using this function. 
+OMG: The OMG data is recorded in the “emteqAR.mat” file. The variable “AR_clock_time” is the starting of this OMG recording. The variable “time” is the timestamp starting at 0. Users could have the real timestamp by adding the two variables. We also provide the function “omg_AR.m” for OMG preprocessing. The cleaned 20-channel OMG data can be obtained by using this function. 
 
 EEG: The EEG data is stored in “bp.csv”. We provide the function “eeg_pro.m” for extracting EEG data and timestamp.
 
-[Notice]: ECG and GSR data are stored in the “emteqVR.mat” file. The data format and the timestamp follows the same settings as EMG. However, ECG and GSR contains too much noise. Normally, we don’t suggest users to use ECG and GSR data.
+[Notice]: ECG and GSR data are stored in the “emteqVR.mat” file. The data format and the timestamp follows the same settings as OMG. However, ECG and GSR contains too much noise. Normally, we don’t suggest users to use ECG and GSR data.
 
 
 -----------------------------------------------------------------
