@@ -1,3 +1,8 @@
+% Copyright 2023 by Hui Yu & Yiming Wang
+% Matlab version was Created by Yiming Wang
+% If you have any comments, please feel free to contact Hui Yu or Yiming Wang.
+% hui.yu@port.ac.uk  or  yiming.wang@port.ac.uk
+
 function [time,eeg] = eeg_pro(data_folder)
 % convert eeg timestamp to real timestamp
 % [eeg] = eeg_pro('expdata\0001')
