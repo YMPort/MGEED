@@ -38,4 +38,4 @@ Emotion: The emotion is one of the 7-class categorical affective states (1:neutr
 
 Access to MGEED database:
 
-Please download the End User License Agreement (eula.pdf), complete the agreement and return it to Prof. Hui Yu, hui.yu@port.ac.uk. Once the signed agreement is received and approved, you will receive instructions to download the database.
+Please download the End User License Agreement (eula.pdf), complete the agreement and return it to Prof. Hui Yu, hui.yu@glasgow.ac.uk. Once the signed agreement is received and approved, you will receive instructions to download the database.
